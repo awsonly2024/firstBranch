@@ -1,5 +1,5 @@
 
-현재 브랜치 main  
 
+최초 pull을 하면 default 브랜치인 develop에서 pull을 받는다
 
-새로운 설명 newb
+이후 newb로 변경 후 develop으로 push
